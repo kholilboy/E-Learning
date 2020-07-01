@@ -34,7 +34,7 @@
           </div>
           <div class="col-lg-5 px-lg-4">
             <!-- <h1 class="text-base text-primary text-uppercase mb-4">Selamat Datang</h1> -->
-            <h2 class="mb-4">E-Learning</h2>
+            <h2 class="mb-4">E-Learning anjay</h2>
             <!-- <p class="text-muted">Selamat datang kembali, silahkan login terlebih dahulu untuk dapat memasuki system</p> -->
 
              <hr>
